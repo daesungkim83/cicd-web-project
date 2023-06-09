@@ -1,18 +1,20 @@
 <%@ page isELIgnored="false" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <html>
 <body>
     <div class="container">
         <div class="jumbotron" style="margin: 36px">
-            <h1 class="display-4">게시판 프로젝트!!</h1>
+            <h1 class="display-4">TmaxCloud Project</h1>
             <p class="lead">
-                이 웹 사이트는 부트스트랩으로 만든 JSP 게시판 사이트입니다.</br> 웹서버 DB 프로젝트 준비하면서 공부용 으로 만든거 입니다!
-                디자인 템플릿으로는 부트스트랩을 이용했습니다.
+                김대성 사이트</br> CI-CD
+                테스트 진행 중!!
             </p>
             <hr class="my-4">
-            <p>로그인 회원가입 게시판 기능을 넣어봤습니다! 필기는 git hub로 했습니다!</p>
+            <p>대성이 git</p>
             <a class="btn btn-dark btn-lg"
-                href="https://github.com/Kimginam97/BoardProject" role="button">Github</a>
+                href="https://github.com/daesungkim83" role="button">Github</a>
         </div>
     </div>
     <h1>TmaxCloud!! Service Operation team Fighting!!!</h1>
