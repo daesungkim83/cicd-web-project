@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>TmaxCloud!!! Service Operation team Fighting!!!</h2>
+    <h2>TmaxCloud! Service Operation team Fighting!!!</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day!! Good bye~~~~~~~~</h1>
