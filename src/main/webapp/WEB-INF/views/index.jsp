@@ -8,9 +8,9 @@
         <div class="jumbotron" style="margin: 36px">
             <h1 class="display-4">TmaxCloud Service Operation team Fighting!!!</h1>
             <hr>
-            <h1>Welcome to Kim Dae Sung World</h1>
+            <h1>Welcome to SuperApp World</h1>
             <p class="lead">
-                김대성 사이트</br> CI-CD
+                K8S</br> CI-CD
                 테스트 진행 중!!
             </p>
             <hr class="my-4">
