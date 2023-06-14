@@ -11,7 +11,7 @@
             <h1>Welcome to SuperApp World</h1>
             <p class="lead">
                 K8S</br> CI-CD
-                테스트 진행 중!!!!!!!!!!!!
+                테스트 진행 중!
             </p>
             <hr class="my-4">
             <p>대성이 git</p>
